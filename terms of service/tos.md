@@ -24,7 +24,10 @@ Terms of service-
  - NO, we do not store any message sent by user and all your data is safe with you.
 
 hope you like SayGoodbye, for more additional queries or problems you can join our support server by using the help section of the bot in discord.
+
 Thanks, 
+
+
 amythanshoe#5329
 
         
